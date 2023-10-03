@@ -1,0 +1,15 @@
+C:\Users\tomva\Desktop\Quizgame\obj\Debug\net6.0\Quizgame.csproj.AssemblyReference.cache
+C:\Users\tomva\Desktop\Quizgame\obj\Debug\net6.0\Quizgame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomva\Desktop\Quizgame\obj\Debug\net6.0\Quizgame.AssemblyInfoInputs.cache
+C:\Users\tomva\Desktop\Quizgame\obj\Debug\net6.0\Quizgame.AssemblyInfo.cs
+C:\Users\tomva\Desktop\Quizgame\obj\Debug\net6.0\Quizgame.csproj.CoreCompileInputs.cache
+C:\Users\tomva\Desktop\Quizgame\bin\Debug\net6.0\Quizgame.exe
+C:\Users\tomva\Desktop\Quizgame\bin\Debug\net6.0\Quizgame.deps.json
+C:\Users\tomva\Desktop\Quizgame\bin\Debug\net6.0\Quizgame.runtimeconfig.json
+C:\Users\tomva\Desktop\Quizgame\bin\Debug\net6.0\Quizgame.dll
+C:\Users\tomva\Desktop\Quizgame\bin\Debug\net6.0\Quizgame.pdb
+C:\Users\tomva\Desktop\Quizgame\obj\Debug\net6.0\Quizgame.dll
+C:\Users\tomva\Desktop\Quizgame\obj\Debug\net6.0\refint\Quizgame.dll
+C:\Users\tomva\Desktop\Quizgame\obj\Debug\net6.0\Quizgame.pdb
+C:\Users\tomva\Desktop\Quizgame\obj\Debug\net6.0\Quizgame.genruntimeconfig.cache
+C:\Users\tomva\Desktop\Quizgame\obj\Debug\net6.0\ref\Quizgame.dll
